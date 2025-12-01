@@ -49,4 +49,4 @@ O sentimento negativo tem alta confiança em todas as frases, indicando consist�
 
 A ferramenta destacou corretamente termos negativos como “prejudicando” e “péssima”, refletindo problemas de experiência do usuário.
 
-Essa estrutura deixa seu repositório extremamente claro e completo, parecendo documentação de projeto real.
+
