@@ -5,6 +5,14 @@ Análise de Sentimentos e Opiniões – Azure Language Studio
 
 Resumo dos Resultados em Tabela
 
+🧩 Tabela Geral – Resumo das Sentenças
+| **Sentença** | **Texto**                                                              | **Sentimento** | **Positivo** | **Neutro** | **Negativo** | **Target Detectado**   | **Assessment**                 |
+| ------------ | ---------------------------------------------------------------------- | -------------- | ------------ | ---------- | ------------ | ---------------------- | ------------------------------ |
+| **1**        | O sistema trava o tempo inteiro e isso está prejudicando meu trabalho. | Negativo       | 0%           | 6%         | 94%          | sistema                | prejudicando (negativo – 100%) |
+| **2**        | Já tentei várias vezes resolver com o suporte, mas ninguém responde.   | Negativo       | 1%           | 18%        | 80%          | — *(não identificado)* | —                              |
+| **3**        | Minha experiência está sendo péssima.                                  | Negativo       | 0%           | 1%         | 99%          | experiência            | péssima (negativo – 100%)      |
+
+
 📝 Tabela de Targets e Opiniões (Opinion Mining)
 
 | **Sentença** | **Target (Alvo)** | **Assessment** | **Sentimento do Assessment** | **Confiança** |
